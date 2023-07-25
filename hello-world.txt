@@ -1,3 +1,7 @@
 new branch local changes
 
+<<<<<<< HEAD
 main changes
+=======
+
+>>>>>>> new-branch-local
